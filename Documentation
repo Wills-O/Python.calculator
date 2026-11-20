@@ -1,0 +1,47 @@
+Python Calculator
+
+My first Python calculator project.
+
+Description
+
+A simple command-line calculator built with Python. It uses functions imported from a separate module.
+
+Features
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+Decimal number support using float()
+
+Repeat calculations using a while loop
+
+Division-by-zero handling
+
+Project Structure
+
+calculator.py – Main calculator program
+
+Omale.py – Contains the arithmetic functions
+
+Technologies
+
+Python 3
+
+What I Learned
+
+Functions and modules
+
+Importing functions
+
+Conditional statements
+
+While loops
+
+Input conversion using float()
+
+Indentation and program structure
